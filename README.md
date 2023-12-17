@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CBJtech
 - 👀 I’m obsessed with programming, AI, and anything to do with tech and SCI-FI
-- 🌱 I'm learning javascript, python, django and react
+- 🌱 I currently program using javascript and python
 - 💞️ I’m looking to collaborate on any open source projects
 - 📫 Reach me on whatSApp @ +220 7878796
 
