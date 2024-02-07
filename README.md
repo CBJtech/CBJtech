@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CBJtech
+- I'm a frontedn web developer
+- I'm currently learning machine learning using TensorFlow.js 
 - 👀 I’m obsessed with programming, AI, and anything to do with tech and SCI-FI
-- 🌱 I currently program using javascript and python
-- 💞️ I’m looking to collaborate on any open source projects
-- 📫 Reach me on whatSApp @ +220 7878796
+- 💞️ Reach me out to collaborate on any open source projects
 
 <!---
 CBJtech/CBJtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
