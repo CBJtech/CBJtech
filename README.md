@@ -1,8 +1,8 @@
 <h1 align="center">Hey there, I'm Cherno Basiru Jallow 👋</h1>
 
 <p align="center">
-  <b>AI/ML Developer · Data Science Intern @ MRCG-LSHTM · CS Student · YouTuber · Speaker</b><br/>
-  <i>Building AI that matters — from The Gambia, for the world 🌍</i>
+  <b>AI/ML Developer · Prev. Data Science Intern @ MRCG-LSHTM · CS Student · YouTuber · Speaker · 2x AI Intern</b><br/>
+  <i>Building AI that matters from The Gambia, for the world 🌍</i>
 </p>
 
 <p align="center">
