@@ -18,11 +18,11 @@
 
 ## 🧠 About Me
 
-I'm a **self-taught AI/ML developer** from **Serrekunda, The Gambia** who started coding in 9th grade and never looked back. I'm currently a **Data Science Intern at MRC Unit The Gambia (LSHTM)** and a **CS freshman at the University of The Gambia**, obsessed with applying machine learning to real-world problems in Africa and beyond.
+I'm a **self-taught AI/ML developer** from **The Gambia** who started coding in 9th grade and never looked back. After graduating high school, I served as a **Data Science Intern at MRC Unit The Gambia (London School of Hygiene and Tropical Medicine)** and currently a **CS student at the University of The Gambia**, obsessed with applying machine learning to problems in Africa and beyond.
 
 - 🔬 Working at the intersection of **Computer Vision**, **Deep Learning**, and **scientific research**
 - 🏥 Building AI tools for **healthcare diagnostics in low-resource settings**
-- 🎤 **Accepted Speaker at PyCon Austria 2026** | Keynote at Google DevFest Banjul, PyCon Senegambia & more
+- 🎤 **Accepted Speaker at PyCon Austria 2026** | Keynote at Google DevFest Banjul 2x, PyCon Senegambia & more
 - 📺 Running **CBJtech** on YouTube — AI/ML projects, coding tips, and the self-taught journey
 - 🌱 Founder of **StemBia** — a STEM nonprofit solving real Gambian problems through tech & research
 - ⚡ Fun fact: I enjoy football, family time, and chocolate 🍫
