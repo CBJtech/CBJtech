@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://cbjtech.github.io/portfolio/">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/cherno-basiru-jallow-4834b8240/">💼 LinkedIn</a> •
-  <a href="https://www.youtube.com/@CBJtech">📺 YouTube (CBJtech)</a> •
+  <a href="https://www.youtube.com/@chernoTechie">📺 YouTube (CBJtech)</a> •
   <a href="mailto:jallowchernobassiru@gmail.com">📧 Email</a> •
   <a href="https://medium.com/@jallowchernobassiru">✍️ Medium</a> •
   <a href="https://scholar.google.com/citations?user=Hh7diHkAAAAJ">🎓 Google Scholar</a>
