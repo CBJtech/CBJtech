@@ -33,17 +33,17 @@ I'm a **self-taught AI/ML developer** from **The Gambia** who started coding in 
 
 | 🥇 | Achievement |
 |----|-------------|
-| 🥇 1st Place | NASA Space Apps Challenge Banjul 2025 — *Data Pathways to Healthy Cities* |
-| 🥈 2nd Place | MRCG Hackathon 2025 — *PneumoniaNet AI Screening Model* |
-| 🏅 Top 5 | UNICEF Gambia Digital Innovation Sprint 2025 — *Voltify IoT Smart Energy System* |
+| 🥇 1st Place | NASA Space Apps Challenge Banjul 2025 - *Data Pathways to Healthy Cities* |
+| 🥈 2nd Place | MRCG Hackathon 2025 - *PneumoniaNet AI Screening Model* |
+| 🏅 Top 5 | UNICEF Gambia Digital Innovation Sprint 2025 - *Voltify IoT Smart Energy System* |
 | 🎤 Speaker | Google DevFest Banjul 2024 & 2025, PyCon Senegambia 2025, PyCon Austria 2026 |
-| 🏅 Award | April 2024 Best Team Member — OBENTaS Global |
+| 🏅 Award | April 2024 Best Team Member - OBENTaS Global |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🫁 PneumoniaNet — AI-Assisted Childhood Pneumonia Screening
+### 🫁 PneumoniaNet - AI-Assisted Childhood Pneumonia Screening
 > *MRCG Hackathon 2025 · 2nd Place · Presented at OIC Conference Center*
 
 Lightweight 3-class CNN (Normal / Infiltrate / Consolidation) optimized for standard CPUs in low-resource clinics. Tackled severe class imbalance with weighted loss functions and added **Grad-CAM** so clinicians can see and trust how the model decides.
@@ -57,14 +57,14 @@ Full-stack dashboard using **NASA Earth observation data** to give urban planner
 
 ---
 
-### ⚡ Voltify — IoT Smart Energy Management System
+### ⚡ Voltify - IoT Smart Energy Management System
 > *UNICEF Gambia Digital Innovation Sprint 2025 · Top 5 Finalist*
 
 Built for **60M+ African households** managing prepaid electricity blindly. **ESP32-based smart meter** with real-time current sensing + a **Flutter app** for usage tracking, predictive alerts, and mobile money top-up (Wave/Afrimoney/Comcash). Demoed live before UNICEF, MoBSE & Government of Japan reps.
 
 ---
 
-### 🦠 LOWEL AI — Waterborne Bacteria Detection
+### 🦠 LOWEL AI - Waterborne Bacteria Detection
 > *Self-Published, 2024*
 
 AI + microscope cameras + sensor data to detect harmful waterborne bacteria in The Gambia. Co-founded while still in high school.
@@ -74,7 +74,7 @@ AI + microscope cameras + sensor data to detect harmful waterborne bacteria in T
 ### 🌾 Computer Vision for Crop Diseases
 > *Research Preprint, 2025*
 
-CV models to detect and classify crop diseases on Gambian farms — applying AI to food security.
+CV models to detect and classify crop diseases on Gambian farms - applying AI to food security.
 
 ---
 
@@ -91,11 +91,11 @@ languages_spoken = ["English", "Fula", "Wolof"]
 
 ---
 
-## 📺 CBJtech — YouTube
+## 📺 CBJtech - YouTube
 
 I document my self-taught AI/CS journey: project walkthroughs, deep learning breakdowns, coding tips, and life as a student dev in Africa.
 
-👉 **[Subscribe to CBJtech](https://www.youtube.com/@CBJtech)**
+👉 **[Subscribe to CBJtech](https://www.youtube.com/@chernoTechie)**
 
 ---
 
@@ -105,7 +105,7 @@ I document my self-taught AI/CS journey: project walkthroughs, deep learning bre
 - 🇬🇲 **Google DevFest Banjul 2024 & 2025**
 - 🌍 **PyCon Senegambia 2025**
 - 🎓 **UTG ICT Week 2025**
-- 🏫 **Nusrat Senior Secondary** — 250+ students inspired
+- 🏫 **Nusrat Senior Secondary** - 250+ students inspired
 
 Topics: *Building a Career in AI as a Student in Africa* · *Python for Deep Learning & Scientific Discovery*
 
@@ -113,8 +113,8 @@ Topics: *Building a Career in AI as a Student in Africa* · *Python for Deep Lea
 
 ## 📚 Publications
 
-- 📄 **LOWEL AI** — AI-powered waterborne bacteria detection *(2024)*
-- 📄 **Computer Vision for Crop Diseases** — CV for Gambian farm disease detection *(Research Preprint, 2025)*
+- 📄 **LOWEL AI** - AI-powered waterborne bacteria detection *(2024)*
+- 📄 **Computer Vision for Crop Diseases** - CV for Gambian farm disease detection *(Research Preprint, 2025)*
 
 ---
 
