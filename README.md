@@ -69,18 +69,6 @@ An AI-powered recruitment platform that matches candidates to opportunities thro
 
 ---
 
-## 📊 DalasiDash
-
-A modern business dashboard designed to help Gambian SMEs manage sales, customers, inventory, and business insights through a simple web application.
-
----
-
-## 🗣️ Metrix
-
-A multilingual voice assistant focused on African languages and accessibility through speech recognition and translation.
-
----
-
 ## 🫁 PneumoniaNet
 
 A lightweight deep learning model for childhood pneumonia detection from chest X-rays.
