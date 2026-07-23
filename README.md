@@ -59,8 +59,6 @@ Outside work, I enjoy building startups, publishing research, speaking at confer
 
 An intelligent energy management platform helping African households monitor electricity usage in real time, predict consumption, remotely control power, and recharge prepaid meters using mobile money.
 
-**Stack:** Flutter • ESP32 • IoT • AI
-
 ---
 
 ## 💼 JobMatch AI
