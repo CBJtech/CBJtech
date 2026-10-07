@@ -1,8 +1,8 @@
 <h1 align="center">Hey there, I'm Cherno Basiru Jallow 👋</h1>
 
 <p align="center">
-  <b>Young AI Expert Intern @ ITU · Generation Connect Youth Envoy · AI Researcher · Founder · Computer Science Student</b><br/>
-  <i>Building AI systems that solve real African problems.</i>
+  <b>AI Engineer · Startup Co-Founder · Computer Vision Researcher · Speaker</b><br/>
+  <i>Building practical AI systems and products for real-world problems in Africa.</i>
 </p>
 
 <p align="center">
@@ -18,22 +18,24 @@
 
 # About Me
 
-I'm a Computer Science student from **The Gambia** passionate about building AI that creates real impact.
+I'm an **Information Systems student, AI engineer, and computer vision researcher from The Gambia**, interested in building practical technology for healthcare, energy, education, and other real-world challenges across Africa.
 
-I started programming in 9th grade with nothing more than curiosity and a laptop. Today, I work across research, engineering, and product development, building machine learning systems for healthcare, agriculture, telecommunications, and digital infrastructure.
+Currently, I'm working in **AI & Digital Innovation at UNICEF Gambia**. Previously, I worked as a **Young AI Expert Intern at the International Telecommunication Union (ITU)** and as a **Data Science / AI Research Intern at MRC Unit The Gambia at LSHTM**, where I worked on machine learning, computer vision, and medical imaging projects.
 
-Currently, I'm a **Young AI Expert Intern at the International Telecommunication Union (ITU)** supporting AI initiatives within the Telecommunication Standardization Bureau. Previously, I worked as a **Data Science Intern at MRC Unit The Gambia at LSHTM**, where I contributed to health research using machine learning.
+Alongside research and engineering, I co-founded **Voltify**, a smart energy-management platform for prepaid electricity households, and **JobMatch AI**, an AI-powered employment and career platform. I also co-organize **Hack4Gambia** and lead the **Data Science & AI Club** and **Research Club** at the University of The Gambia.
 
-Outside work, I enjoy building startups, publishing research, speaking at conferences, and helping more young Africans get into AI.
+I'm a **Generation Connect Youth Envoy for The Gambia (2026–2030)** and regularly speak about AI, machine learning, research, technology, and building a career in tech as a young African.
 
 ### Current Focus
 
 - 🤖 Applied AI and Machine Learning
-- 🔬 Scientific Research and AI for Social Good
-- 📡 AI for Telecommunications
-- 🩺 Computer Vision for Healthcare
-- ⚡ Digital Infrastructure and Smart Energy
-- 🌍 Building products for Africa
+- 🔬 Computer Vision & Scientific Research
+- 🌍 AI for Social Good
+- 🧠 AI & Digital Innovation
+- ⚡ Smart Energy & IoT
+- 💼 AI-powered Employment & Career Technology
+- 🚀 Building products for Africa
+- 🎓 AI education and technical community building
 
 ---
 
@@ -41,14 +43,19 @@ Outside work, I enjoy building startups, publishing research, speaking at confer
 
 | Achievement | Year |
 |-------------|------|
-| 🌍 Young AI Expert Intern, International Telecommunication Union (ITU) | 2026 |
+| 🌍 AI & Digital Innovation Intern, UNICEF Gambia | 2026 |
 | 🌍 Generation Connect Youth Envoy, The Gambia | 2026 |
-| 🎓 Deep Learning Indaba Travel Grantee | 2026 |
+| 🌍 Young AI Expert Intern, International Telecommunication Union (ITU) | 2026 |
+| 🎓 Deep Learning Indaba 2026 Full Grant Recipient | 2026 |
 | 🎤 Accepted Speaker, PyCon Austria | 2026 |
+| 🥈 2nd Place, UTG Students' Week Innovation Day | 2026 |
+| 🥈 2nd Place, UTG Students' Week Entrepreneurship Day | 2026 |
 | 🏆 1st Place, NASA Space Apps Challenge Banjul | 2025 |
-| 🥈 2nd Place, MRCG Hackathon | 2025 |
-| 🏅 Top 5, UNICEF Digital Innovation Sprint | 2025 |
-| 🎤 Speaker, Google DevFest Banjul (2x), PyCon Senegambia, UTG ICT Week | 2024 to 2026 |
+| 🥈 2nd Place, MRCG AI Hackathon | 2025 |
+| 🏅 Top 5, UNICEF Gambia Digital Innovation Sprint | 2025 |
+| 🏅 Top 10 Finalist, Deep Learning Indaba 2026 Startup Pitch | 2026 |
+| 🌍 Top 50 African Innovator, African Innovation Awards | 2026 |
+| 🎤 Speaker, Google DevFest Banjul, PyCon Senegambia & UTG ICT Week | 2024–2026 |
 | 🏅 Best Team Member, OBENTaS Global | 2024 |
 
 ---
@@ -57,33 +64,51 @@ Outside work, I enjoy building startups, publishing research, speaking at confer
 
 ## ⚡ Voltify
 
-An intelligent energy management platform helping African households monitor electricity usage in real time, predict consumption, remotely control power, and recharge prepaid meters using mobile money.
+An intelligent energy-management platform helping African households monitor electricity usage in real time, predict consumption, remotely control power, and recharge prepaid meters using mobile money.
+
+Built with **ESP32, Flutter, real-time sensing, predictive analytics, and mobile money integrations**.
+
+### Recent Recognition
+
+- 🏅 Top 5, UNICEF Gambia Digital Innovation Sprint 2025
+- 🥈 2nd Place, UTG Students' Week Innovation Day 2026
+- 🥈 2nd Place, UTG Students' Week Entrepreneurship Day 2026
+- 💰 GMD 25,000 prize at each UTG Students' Week competition
 
 ---
 
 ## 💼 JobMatch AI
 
-An AI-powered recruitment platform that matches candidates to opportunities through intelligent CV analysis, skill extraction, and recommendation models.
+An AI-powered employment and career platform connecting job seekers, employers, and training providers through intelligent opportunity matching.
+
+Built around AI-driven CV analysis, skill extraction, job matching, and explainable recommendations.
+
+### Recent Recognition
+
+- 🏅 Top 10 Finalist, Deep Learning Indaba 2026 Startup Pitch Competition
+- Selected among 10 finalists from 34 applicants
 
 ---
 
 ## 🫁 PneumoniaNet
 
-A lightweight deep learning model for childhood pneumonia detection from chest X-rays.
+A lightweight deep learning model for childhood pneumonia screening from chest X-rays.
 
-Developed during the MRCG Hackathon where it earned **2nd Place**.
+Developed during the MRCG AI Hackathon using a 3-class CNN for **Normal, Infiltrate, and Consolidation** cases, with Grad-CAM interpretability and class-weighted training.
+
+🏆 **2nd Place, MRCG AI Hackathon 2025**
 
 ---
 
 ## 🌾 Computer Vision for Crop Diseases
 
-Research exploring deep learning models for crop disease detection to improve agricultural productivity in low resource settings.
+Research exploring deep learning models for crop disease detection to support agricultural productivity in low-resource farming environments.
 
 ---
 
 ## 💧 LOWEL AI
 
-An AI-assisted water quality monitoring system combining sensors and machine learning to identify harmful bacteria in water sources.
+An AI-assisted water quality monitoring system combining microscope and sensor data with machine learning to identify harmful bacteria in water sources.
 
 Published while I was still in high school.
 
@@ -95,10 +120,12 @@ Published while I was still in high school.
 - Deep Learning
 - Healthcare AI
 - Scientific Computing
-- AI for Telecommunications
-- AI for Agriculture
+- AI for Social Good
 - Responsible AI
+- AI & Digital Innovation
+- AI for Agriculture
 - Large Language Models
+- Edge AI & IoT
 
 ---
 
@@ -135,69 +162,18 @@ DeveloperTools = [
     "Hugging Face"
 ]
 
+IoT = [
+    "ESP32",
+    "GSM/LTE",
+    "Real-Time Sensors",
+    "Edge Computing"
+]
+
 Interests = [
     "Computer Vision",
     "Deep Learning",
-    "Research",
     "AI Engineering",
     "Data Science",
+    "Scientific Research",
     "IoT"
 ]
-```
-
----
-
-# Speaking
-
-I've been fortunate to speak at universities, conferences, and developer communities across Africa.
-
-### Selected Talks
-
-- 🇦🇹 PyCon Austria 2026
-- 🌍 PyCon Senegambia
-- 💙 Google DevFest Banjul (2024 & 2025)
-- 🎓 University of The Gambia ICT Week
-- 🏫 School and community STEM events
-
-Topics include AI, machine learning, scientific computing, building products, and growing a career in technology as an African student.
-
----
-
-# Publications
-
-- **LOWEL AI:** Artificial Intelligence for Waterborne Bacteria Detection (2024)
-- **Computer Vision for Crop Diseases:** Research Preprint (2025)
-
-More publications are available on my Google Scholar profile.
-
----
-
-# Beyond Code
-
-When I'm not writing code or training models, you'll probably find me:
-
-- mentoring students
-- preparing talks
-- reading AI papers
-- building startups
-- creating content on CBJtech
-
-I believe technology should solve real problems, especially for communities that are often overlooked.
-
----
-
-# Let's Connect
-
-📧 **jallowchernobassiru@gmail.com**
-
-🌐 **https://cbjtech.github.io/portfolio/**
-
-💼 **LinkedIn:** https://linkedin.com/in/cherno-basiru-jallow-4834b8240
-
-📺 **YouTube:** https://youtube.com/@chernoTechie
-
----
-
-<p align="center">
-<i>"Build things that matter. Let the work speak."</i>
-</p>
