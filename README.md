@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Cherno Basiru Jallow 👋</h1>
 
 <p align="center">
-  <b>AI Engineer · Startup Co-Founder · Computer Vision Researcher · Speaker</b><br/>
+  <b>AI Engineer · Computer Vision Researcher · Startup Co-Founder · Speaker</b><br/>
   <i>Building practical AI systems and products for real-world problems in Africa.</i>
 </p>
 
@@ -39,22 +39,79 @@ I'm a **Generation Connect Youth Envoy for The Gambia (2026–2030)** and regula
 
 ---
 
-# Highlights
+# Experience
+
+### 🌍 AI & Digital Innovation Intern — UNICEF Gambia
+**Oct 2026 – Present · Bakau, The Gambia**
+
+Supporting AI and digital innovation initiatives, including the exploration of practical applications of AI and emerging technologies to strengthen internal workflows and programmes.
+
+Contributing to the development, testing, and evaluation of digital solutions and AI-enabled prototypes, alongside research and knowledge resources supporting AI and digital innovation initiatives.
+
+---
+
+### 📡 Young AI Expert Intern — International Telecommunication Union (ITU)
+**Jul 2026 – Oct 2026 · Remote**
+
+Worked on an AI-assisted software prototype focused on improving internal information retrieval and workflow processes.
+
+Prepared and processed sample data and documents as part of the initial prototype development.
+
+---
+
+### 🧪 Data Science / AI Research Intern — MRC Unit The Gambia at LSHTM
+**Mar 2025 – Sep 2025 · Fajara, The Gambia**
+
+Worked across machine learning, computer vision, and medical imaging research.
+
+- Engineered a PyTorch CNN image classifier on a 25,000-image dataset, achieving 80% validation accuracy.
+- Developed a pneumonia detection model using Fastai and transfer learning on 5,000+ chest X-rays.
+- Implemented a neural network from scratch in NumPy, including forward propagation, backpropagation, gradient descent, and loss optimization.
+- Explored model interpretability through Grad-CAM and saliency-map visualizations.
+
+---
+
+### 🤖 Lead AI / ML Intern — OBENTaS Global
+**Feb 2024 – Feb 2025 · Brikama, The Gambia**
+
+- Developed a music-preference recommendation system using Python, scikit-learn, and pandas.
+- Led applied research on e-learning platform design, focusing on engagement, accessibility, and digital infrastructure in low-resource settings.
+- Represented OBENTaS at The Gambia Trade Fair 2024.
+- Recognized as **April 2024 Best Team Member** for technical output and cross-functional collaboration.
+
+---
+
+### 💻 ICT Club President & Lead Instructor — Nusrat Senior Secondary School
+**Jul 2023 – Jul 2024 · Serrekunda, The Gambia**
+
+- Led a 150+ member student technology community.
+- Taught 50+ students weekly in coding, web development, MS Office, and graphic design.
+- Co-founded **Coders Hub**, a peer-led coding community.
+- Raised GMD 10,000+ for educational technology trips.
+
+---
+
+### 🎥 Founder & Content Creator — CBJtech
+**Jan 2023 – Present · The Gambia**
+
+Built a West African AI/ML education platform producing 70+ tutorials covering deep learning, computer vision, research methods, and career development.
+
+---
+
+# Highlights & Achievements
 
 | Achievement | Year |
 |-------------|------|
-| 🌍 AI & Digital Innovation Intern, UNICEF Gambia | 2026 |
-| 🌍 Generation Connect Youth Envoy, The Gambia | 2026 |
-| 🌍 Young AI Expert Intern, International Telecommunication Union (ITU) | 2026 |
-| 🎓 Deep Learning Indaba 2026 Full Grant Recipient | 2026 |
-| 🎤 Accepted Speaker, PyCon Austria | 2026 |
-| 🥈 2nd Place, UTG Students' Week Innovation Day | 2026 |
-| 🥈 2nd Place, UTG Students' Week Entrepreneurship Day | 2026 |
 | 🏆 1st Place, NASA Space Apps Challenge Banjul | 2025 |
 | 🥈 2nd Place, MRCG AI Hackathon | 2025 |
+| 🥈 2nd Place, UTG Students' Week Innovation Day | 2026 |
+| 🥈 2nd Place, UTG Students' Week Entrepreneurship Day | 2026 |
 | 🏅 Top 5, UNICEF Gambia Digital Innovation Sprint | 2025 |
-| 🏅 Top 10 Finalist, Deep Learning Indaba 2026 Startup Pitch | 2026 |
+| 🏅 Top 10 Finalist, Deep Learning Indaba 2026 Startup Pitch Competition | 2026 |
 | 🌍 Top 50 African Innovator, African Innovation Awards | 2026 |
+| 🎓 Full Grant Recipient, Deep Learning Indaba 2026 | 2026 |
+| 🌍 Generation Connect Youth Envoy, The Gambia | 2026–2030 |
+| 🎤 Accepted Speaker, PyCon Austria | 2026 |
 | 🎤 Speaker, Google DevFest Banjul, PyCon Senegambia & UTG ICT Week | 2024–2026 |
 | 🏅 Best Team Member, OBENTaS Global | 2024 |
 
@@ -66,9 +123,9 @@ I'm a **Generation Connect Youth Envoy for The Gambia (2026–2030)** and regula
 
 An intelligent energy-management platform helping African households monitor electricity usage in real time, predict consumption, remotely control power, and recharge prepaid meters using mobile money.
 
-Built with **ESP32, Flutter, real-time sensing, predictive analytics, and mobile money integrations**.
+Built with **ESP32, Flutter, real-time sensing, predictive analytics, GSM/LTE connectivity, and mobile money integrations**.
 
-### Recent Recognition
+### Recognition
 
 - 🏅 Top 5, UNICEF Gambia Digital Innovation Sprint 2025
 - 🥈 2nd Place, UTG Students' Week Innovation Day 2026
@@ -79,11 +136,11 @@ Built with **ESP32, Flutter, real-time sensing, predictive analytics, and mobile
 
 ## 💼 JobMatch AI
 
-An AI-powered employment and career platform connecting job seekers, employers, and training providers through intelligent opportunity matching.
+An AI-powered employment and career platform connecting job seekers, employers, and training providers through intelligent opportunity matching and career guidance.
 
 Built around AI-driven CV analysis, skill extraction, job matching, and explainable recommendations.
 
-### Recent Recognition
+### Recognition
 
 - 🏅 Top 10 Finalist, Deep Learning Indaba 2026 Startup Pitch Competition
 - Selected among 10 finalists from 34 applicants
